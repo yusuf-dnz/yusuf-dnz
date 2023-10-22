@@ -1,5 +1,5 @@
-# 💫 About Me:
-Web & Mobile Application Developer 
+# About Me:
+Software Developer
 
 
 ## 🌐 Socials:
