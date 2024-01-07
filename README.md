@@ -24,7 +24,17 @@
 ----
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-dnz&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
-  
+
+<div align="left">
+<h3> Tech Stack </h3>
+</div> 
+
+ * C#, Java, Javascript, Typescript, Python
+ * .NET Core, Entity Framework, Firebase, 
+ * Arduino, NodeMCU, C++, Blynk, 
+ * React, React Native, Angular, Redux, MUI
+ * DevOps, CI/CD, Docker, Kubernetes, AWS, ECS, CloudWatch, Terraform
+
 ----
 [![](https://visitcount.itsvg.in/api?id=yusuf-dnz&icon=5&color=3)](https://visitcount.itsvg.in)
 
