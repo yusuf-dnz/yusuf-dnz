@@ -30,7 +30,7 @@
 </div> 
 
  * C#, Java, Javascript, Typescript, Python
- * .NET Core, Entity Framework, Firebase, 
+ * .NET Core, Entity Framework, Firebase, Node.js
  * Arduino, NodeMCU, C++, Blynk, 
  * React, React Native, Angular, Redux, MUI, Bootstrap, HTML, CSS
  * DevOps, CI/CD, Docker, Kubernetes, AWS, ECS, CloudWatch, Terraform
